@@ -6,7 +6,7 @@ python get_assignments.py [path_to_input]
 python get_assignments.py ./InputOutputs/input1.txt
 
 ### Instructions to run tests
-##### To run the tests, use the command pytest tests.py
+##### To run the tests, use the command pytest UnitTests.py or pytest FunctionalTests.py
 ##### You might have to install pytest if not installed using pip install -U pytest
 ##### Link to further pytest instructions if needed https://docs.pytest.org/en/7.1.x/getting-started.html
 
