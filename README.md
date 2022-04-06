@@ -3,7 +3,7 @@
 python get_assignments.py [path_to_input] 
 
 ##### Example 
-python get_assignments.py ./inputs/input1.txt
+python get_assignments.py ./InputOutputs/input1.txt
 
 ### Instructions to run tests
 ##### To run the tests, use the command pytest tests.py
