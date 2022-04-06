@@ -24,6 +24,7 @@ def test_cost_2():
     theater.assign_seats()
     assert theater.seat_assignments == [[(0, 0), (0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (0, 7), (0, 8), (0, 9), (0, 10), (0, 11), (0, 12), (0, 13), (0, 14)], [(0, 18)]]
 
+# Check if cost function is working properly
 def test_costfunction():
     theater = Cinema()
     theater.read_requests(['R001 15'])
